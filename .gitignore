@@ -16,7 +16,8 @@ venv/
 .gradio/
 
 # ML Models (too large for GitHub)
-models/
+models/*
+!models/README.md
 
 # OS
 .DS_Store
