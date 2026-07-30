@@ -1,0 +1,23 @@
+# IDE
+.idea/
+*.iml
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# Gradio
+.gradio/
+
+# ML Models (too large for GitHub)
+models/
+
+# OS
+.DS_Store
+Thumbs.db
