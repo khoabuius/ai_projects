@@ -4,6 +4,9 @@ These model files are too large to store in GitHub (total ~3.4 GB, GitHub limit 
 
 Download them from Hugging Face Hub:
 
+- **detr-resnet-50** (object detection) — https://huggingface.co/facebook/detr-resnet-50
+  - Used by: `genAI/image-processing/image-detector.py`
+  - Expected local path: `models/detr-resnet-50`
 - **nllb-200-distilled-600M** (2.3 GB) — https://huggingface.co/facebook/nllb-200-distilled-600M
 - **distilbert-base-uncased-finetuned-sst-2-english** (255 MB) — https://huggingface.co/distilbert/distilbert-base-uncased-finetuned-sst-2-english
 - **distillBart-6-6** (877 MB) — https://huggingface.co/NuppuCat/distillBart-6-6
