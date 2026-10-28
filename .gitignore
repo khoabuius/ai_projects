@@ -22,3 +22,6 @@ models/*
 # OS
 .DS_Store
 Thumbs.db
+
+# Datasets (downloaded at runtime)
+pytorch/data/
